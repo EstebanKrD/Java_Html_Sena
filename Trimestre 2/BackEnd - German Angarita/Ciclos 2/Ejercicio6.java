@@ -1,24 +1,14 @@
-import java.util.Scanner;
-
 public class Ejercicio6 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        int numero = 1;
+        int suma = 0;
 
-        System.out.println("Ingrese el valor de A:");
-        int inicio = scanner.nextInt();
-
-        System.out.println("Ingrese el valor de B: ");
-        int numeroFinal = scanner.nextInt();
-        scanner.nextLine();
-
-        int i = inicio;
-
-        while ( i <= inicio && i >= numeroFinal ) {
-            if ( i % 2 != 0){
-                System.out.println(i);
+        while (numero <= 100) {
+            if (numero % 2 == 0) {
+                suma += numero;
             }
-            i--;
+            numero++;
         }
-        scanner.close();
+        System.out.println("La suma de los números pares del 1 al 100 es: " + suma);
     }
 }

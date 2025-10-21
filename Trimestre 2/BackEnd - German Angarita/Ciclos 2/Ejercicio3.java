@@ -4,15 +4,14 @@ public class Ejercicio3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Ingrese el numero: ");
-        int tablaMultiplicar = scanner.nextInt();
-        int numero = 1;
+        System.out.println("Numero decendentes ");
 
-        while (numero <= 10) {
-            System.out.println(tablaMultiplicar + " X " + numero + " = " + (numero * tablaMultiplicar));
+        int numero = scanner.nextInt();
+        int contador = numero;
 
-            numero++;
-
+        while (contador >=1 ) {
+            System.out.println(" " + contador);
+            contador--;
         }
         scanner.close();
     }

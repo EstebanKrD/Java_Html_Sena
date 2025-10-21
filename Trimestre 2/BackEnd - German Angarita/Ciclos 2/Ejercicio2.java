@@ -4,13 +4,16 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int contador = 60;
+        System.out.println("Ingrese el numero: ");
+        int tablaMultiplicar = scanner.nextInt();
+        int numero = 1;
 
-        while (contador >=10 ){
-            System.out.println(" " + contador);
-            contador--;
+        while (numero <= 10) {
+            System.out.println(tablaMultiplicar + " X " + numero + " = " + (numero * tablaMultiplicar));
+
+            numero++;
+
         }
         scanner.close();
-
     }
 }

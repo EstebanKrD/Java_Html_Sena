@@ -1,18 +1,16 @@
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class Discord1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Numero decendentes ");
+        int contador = 60;
 
-        int numero = scanner.nextInt();
-        int contador = numero;
-
-        while (contador >=1 ) {
+        while (contador >=10 ){
             System.out.println(" " + contador);
             contador--;
         }
         scanner.close();
+
     }
 }

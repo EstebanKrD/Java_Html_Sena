@@ -3,27 +3,35 @@ import java.util.Scanner;
 public class Ejercicio8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        double suma = 0;
-        int contador = 0;
-        double numero;
         
-        System.out.println("Ingrese números para calcular su promedio (0 para terminar):");
+        String usuarioCorrecto = "admin";
+        String passwordCorrecta = "1234";
         
-        do {
-            System.out.print("Ingrese un número: ");
-            numero = scanner.nextDouble();
+        
+        boolean accesoExitoso = false;
+        int intentos = 3;
+        
+        while (intentos > 0 && !accesoExitoso) {
+            System.out.println("\nIntentos restantes: " + intentos);
             
-            if (numero != 0) {
-                suma += numero;
-                contador++;
+            System.out.print("Ingrese usuario: ");
+            String usuario = scanner.nextLine();
+            
+            System.out.print("Ingrese contraseña: ");
+            String password = scanner.nextLine();
+            
+            if (usuario.equals(usuarioCorrecto) && password.equals(passwordCorrecta)) {
+                accesoExitoso = true;
+            } else {
+                System.out.println("Usuario o contraseña incorrectos.");
+                intentos--;
             }
-        } while (numero != 0);
+        }
         
-        if (contador > 0) {
-            double promedio = suma / contador;
-            System.out.println("El promedio de los " + contador + " números ingresados es: " + promedio);
+        if (accesoExitoso) {
+            System.out.println("¡Bienvenido al sistema!");
         } else {
-            System.out.println("No se ingresaron números para calcular el promedio.");
+            System.out.println("Cuenta bloqueada. Ha excedido el número de intentos.");
         }
         
         scanner.close();

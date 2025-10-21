@@ -3,21 +3,22 @@ import java.util.Scanner;
 public class Ejercicio7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        double suma = 0;
-        int contador = 1;
+        int numero;
+        long factorial = 1;
         
-        System.out.println("Ingrese 10 números para calcular su promedio:");
+        System.out.print("Ingrese un número para calcular su factorial: ");
+        numero = scanner.nextInt();
         
-        while (contador <= 10) {
-            System.out.print("Ingrese el número " + contador + ": ");
-            double numero = scanner.nextDouble();
-            suma += numero;
-            contador++;
+        if (numero < 0) {
+            System.out.println("Error: No se puede calcular el factorial de un número negativo.");
+        } else {
+            int contador = numero;
+            while (contador > 0) {
+                factorial *= contador;
+                contador--;
+            }
+            System.out.println("El factorial de " + numero + " es: " + factorial);
         }
-        
-        double promedio = suma / 10;
-        
-        System.out.println("El promedio de los números ingresados es: " + promedio);
         
         scanner.close();
     }

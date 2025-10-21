@@ -1,14 +1,24 @@
+import java.util.Scanner;
+
 public class Ejercicio11 {
     public static void main(String[] args) {
-        int numero = 1;
-        int suma = 0;
+        Scanner scanner = new Scanner(System.in);
 
-        while (numero <= 100) {
-            if (numero % 2 == 0) {
-                suma += numero;
+        double acmulador = 0;
+        int numero;
+        int contador = 0;
+        scanner.close();
+
+        do {
+            System.out.println("Por favor ingrese la nota");
+            numero = scanner.nextInt();
+            if (numero != -1) {
+                contador = contador + 1;
+                acmulador = acmulador + numero;
             }
-            numero++;
-        }
-        System.out.println("La suma de los números pares del 1 al 100 es: " + suma);
+        } while (numero != -1);
+        double promedio = acmulador / contador;
+        System.out.println("Grcias por usar el programa");
+        System.out.println("Promedio: " + promedio);
     }
 }
