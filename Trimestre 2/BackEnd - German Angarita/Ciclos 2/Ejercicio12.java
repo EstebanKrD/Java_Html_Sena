@@ -10,7 +10,7 @@ public class Ejercicio12 {
         do {
             System.out.println("Ingrese su correo: ");
             correo = scanner.nextLine();
-            if(correo.contains("@") && correo.contains(".") ){
+            if (correo.contains("@") && correo.contains(".")) {
                 esValido = true;
             } else {
                 System.out.println("Por favor ingrese el correo de nuevo");
@@ -19,5 +19,5 @@ public class Ejercicio12 {
         System.out.println("El correo ingresado es correcto: " + correo);
         scanner.close();
     }
-    
+
 }
