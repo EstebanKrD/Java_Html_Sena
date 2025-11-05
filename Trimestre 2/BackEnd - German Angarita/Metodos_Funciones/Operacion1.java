@@ -23,7 +23,7 @@ public class Operacion1 {
 
     public double potencia(double base, double exponente) {
         double resultado = 1;
-        for (int i = 1; i < exponente; i++) {
+        for (int i = 1; i <= exponente; i++) {
             resultado *= base;
         }
         return resultado;
