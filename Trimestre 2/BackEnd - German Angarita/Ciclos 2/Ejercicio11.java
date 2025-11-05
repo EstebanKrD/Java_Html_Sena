@@ -7,7 +7,7 @@ public class Ejercicio11 {
         double acmulador = 0;
         int numero;
         int contador = 0;
-        scanner.close();
+        
 
         do {
             System.out.println("Por favor ingrese la nota");
@@ -20,5 +20,6 @@ public class Ejercicio11 {
         double promedio = acmulador / contador;
         System.out.println("Grcias por usar el programa");
         System.out.println("Promedio: " + promedio);
+        scanner.close();
     }
 }
