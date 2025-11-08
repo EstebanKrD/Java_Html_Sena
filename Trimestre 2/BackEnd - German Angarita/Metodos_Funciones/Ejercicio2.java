@@ -19,7 +19,6 @@ public class Ejercicio2 {
             password = scanner.nextLine();
         } while (!Validator.validarPassword(password));
 
-        // 3. Si todo fue correcto
         Validator.registroExitoso();
 
         scanner.close();
