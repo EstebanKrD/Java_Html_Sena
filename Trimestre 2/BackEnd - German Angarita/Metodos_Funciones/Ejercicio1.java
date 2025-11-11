@@ -31,7 +31,7 @@ public class Ejercicio1 {
             double num1 = scanner.nextDouble();
             System.out.println("Ingrese el segundo numero: ");
             double num2 = scanner.nextDouble();
- 
+
             Operacion1 operacion1 = new Operacion1();
 
             switch (opcion) {

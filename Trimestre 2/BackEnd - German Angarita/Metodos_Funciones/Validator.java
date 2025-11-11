@@ -6,6 +6,7 @@ public class Validator {
 
         if (!correoValido) {
             System.out.println("Correo inválido. Debe contener '@' y '.'.\n");
+            System.out.println("Intente de nuevo");
         }
 
         return correoValido;
