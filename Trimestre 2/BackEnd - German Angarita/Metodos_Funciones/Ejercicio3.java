@@ -8,9 +8,9 @@ public class Ejercicio3 {
 
         while (repetir) {
             System.out.println("------Bienvenido al conversor de temperaturas------ \n");
-            System.out.println("1.) Kelvin");
-            System.out.println("2.) Fahrenheit");
-            System.out.println("3.) Salir");
+            System.out.println("1.) Kelvin \n");
+            System.out.println("2.) Fahrenheit \n");
+            System.out.println("3.) Salir \n");
             System.out.println("--------------------------");
 
             int opcion = scanner.nextInt();
