@@ -7,8 +7,8 @@ public class ArreglosMulti_1 {
                 puertoMatriz[i][j] = '#';
             }
         }
-
-        System.out.println("\nLa puertoMatriz es ");
+        
+        System.out.println("\n El puerto matriz es ");
          for (int i = 0; i < puertoMatriz.length; i++) {
             for (int j = 0; j < puertoMatriz[i].length; j++) {
                 System.out.print(puertoMatriz[i][j] + " ");
