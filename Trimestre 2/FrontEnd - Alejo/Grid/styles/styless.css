@@ -17,9 +17,9 @@ body {
 .menu-lateral {
     position: fixed;
     left: 0;
-    top: 145px;
+    top: 161px;
     width: 200px;
-    height: 46vh;
+    height: 50vh;
     background: #58acf4;
     color: black;
     border-radius: 6px;
@@ -67,9 +67,9 @@ body {
     grid-area: cabecera;
     width: 100vw;
     background: #58acf4;
-    padding: 10px 0;
+    
     text-align: center;
-    font-size: 22px;
+    font-size: 17px;
     font-weight: bold;
     position: fixed;
     top: 0;
