@@ -6,8 +6,6 @@ public class Arreglos_4 {
 
         int[] arreglo = {1, 2, 3, 4, 5, 6};
 
-        int longitudArreglo = arreglo.length;
-
         for (int i : arreglo) {
             System.out.println(i + " = " + (i + 1));
         }
