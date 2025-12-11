@@ -330,6 +330,152 @@ nav ul li a.activo {
     border-radius: 4px;
 }
 
+@media (max-width: 1024px) {
+
+    .contenedor {
+        width: 90%;
+    }
+
+    nav ul li {
+        margin-left: 10px;
+    }
+
+    #boletin .contenedor {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    #boletin form {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .cajas {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .caja {
+        width: 100%;
+    }
+
+    #main-content {
+        display: block;
+    }
+
+    #contenido-principal {
+        width: 100%;
+    }
+
+    #sidebar {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    #sidebar iframe {
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 768px) {
+
+    header .contenedor {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav ul {
+        float: none;
+        margin-top: 10px;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    #cabecera h2 {
+        font-size: 32px;
+    }
+
+    #cabecera p {
+        font-size: 16px;
+    }
+
+    #boletin .contenedor {
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    #boletin form {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #boletin input[type="email"] {
+        width: 100%;
+        margin: 0;
+    }
+
+    #boletin .boton {
+        width: 100%;
+    }
+
+    .caja img {
+        width: 60px;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    #formulario-contacto input,
+    #formulario-contacto textarea,
+    #formulario-contacto button {
+        width: 100%;
+    }
+
+    #sidebar iframe {
+        width: 100% !important;
+        height: 300px !important;
+    }
+}
+
+@media (max-width: 480px) {
+
+    #cabecera h2 {
+        font-size: 26px;
+    }
+
+    #cabecera p {
+        font-size: 14px;
+    }
+
+    #logo {
+        font-size: 22px;
+    }
+
+    nav ul li a {
+        font-size: 16px;
+    }
+
+    .caja {
+        padding: 15px;
+    }
+
+    h3, h4 {
+        font-size: 20px;
+    }
+
+    #boletin input,
+    #boletin button {
+        font-size: 16px;
+        padding: 10px;
+    }
+}
+
+
 footer {
     text-align: center;
     padding: 20px;
