@@ -1,37 +1,44 @@
-const utils = [
-    "Lapiz",
-    "Cuaderno",
+let utils = [
+    "Lápiz",
+    "Lapicero",
     "Borrador",
+    "Sacapuntas",
+    "Cuaderno",
     "Regla",
-    "Mochila",
-    "Tijeras",
-    "Pegamento",
-    "Colores"
+    "Compás",
+    "Corrector",
 ];
 
-//ForEach -> recorre la lista
-utils.forEach((elemento) => console.log(elemento))
+// ForEach -> Recorre la lista
+utils.forEach((elemento) => console.log(elemento));
 
-//Map -> cambia cada elemento
-const enunciados = utils.map((elemento) => "El util es: " + elemento);
+// Map -> Cambia cada elemento
+const enunciados = utils.map((elemento) => "El útil es: " + elemento);
 
-//Filter -> filtrar
-utils.filter((elemento) => {
-    return elemento[0] === "L"
-})
+// Filter -> Filtrar
+const filtered = utils.filter((elemento) => elemento[0] === "L");
+console.log(filtered);
 
-//Find 
-const found = utils.find((elemento) => elemento[0] === "C");
+// Find
+const found = utils.find((elemento) => elemento[0] === "Z");
 console.log(found);
 
-//Push -> agrega un elemento
-utils.push();
+// Reverse
+utils.reverse();
 
-//Eliminar el ultimo elemento
-utils.pop();
+// Agregar elemento
+utils.push("Calculadora", "Tijera", "Mouse", "Marcador");
+console.log(utils);
 
+// Eliminar último elemento
+const ultimoElementoEliminado = utils.pop();
+console.log(ultimoElementoEliminado);
 
-//Eliminar varios elementos en masa
-utils.splice();
+// Eliminar elementos en masa
+console.log(utils);
+const deleted = utils.splice(3, 2);
+console.log(deleted);
+console.log(utils);
 
-//Elimanar solo uno
+// Eliminar uno solo
+utils = utils.filter((elemento, index) => index !== 3 || index !== 6);
