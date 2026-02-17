@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.jdt.core
+2067604993.index
+1608429317.index
+3018848416.index
+3698272775.index
+1865797976.index
