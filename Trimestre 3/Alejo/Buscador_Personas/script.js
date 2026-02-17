@@ -5,7 +5,7 @@ const usuarios = [
     { id: 3, name: "Carlos Andrés Ruiz", email: "carlos.ruiz@example.com" },
     { id: 4, name: "Laura Daniela Martínez", email: "laura.martinez@example.com" },
     { id: 5, name: "Juan Sebastián Torres", email: "juan.torres@example.com" },
-    { id: 6, name: "Mariani", email: "mariani.123@example.com" },
+    { id: 6, name: "Mariany", email: "mariany.123@example.com" },
     { id: 7, name: "Estefa Alias Comadre", email: "tefa.123@example.com" }
 ];
 
