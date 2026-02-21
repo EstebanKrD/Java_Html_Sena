@@ -413,3 +413,855 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-16 12:16:23.155
 !MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Principal.java
+!SESSION 2026-02-17 12:09:57.714 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-17 12:10:00.822
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-17 12:10:01.060
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-17 12:10:05.042
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:12.485
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:12.488
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.win32
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:12.529
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-17 12:10:12.566
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 12:10:16.557
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.412.0 initialized
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-17 12:10:16.679
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 12:10:16.680
+!MESSAGE [Info]	[certificates] Removed 11 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 12:10:16.702
+!MESSAGE [Info]	[default] Policy watcher started for GitHub Copilot Plugin
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 12:10:17.623
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 12:10:17.919
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 12:10:17.920
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 12:10:17.921
+!MESSAGE [Info]	[Semantic Search] Semantic search is disabled { reason: 'watchedFiles capability is not available' }
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-17 12:10:18.117
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:48.638
+!MESSAGE [Info] Document is null for editor: Principal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:48.639
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Principal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:49.193
+!MESSAGE [Info] Document is null for editor: Procesos.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:49.193
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Procesos.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:49.805
+!MESSAGE [Info] Document is null for editor: Paciente.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:10:49.806
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Paciente.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:12:39.690
+!MESSAGE [Info] Document is null for editor: Paciente.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:12:39.691
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Paciente.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:56:44.104
+!MESSAGE [Info] Document is null for editor: Principal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 12:56:44.109
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Principal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:05:37.002
+!MESSAGE [Info] Document is null for editor: Principal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:05:37.004
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Principal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:05:38.771
+!MESSAGE [Info] Document is null for editor: Procesos.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:05:38.772
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Procesos.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:05:39.630
+!MESSAGE [Info] Document is null for editor: Paciente.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:05:39.630
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Paciente.java
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:06:59.257
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:06:59.864
+!MESSAGE [Info]	[fetchCompletions] Request f261226a-666c-45ca-a641-46a177db5308 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 583.5616000001319ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:06:59.864
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:01.173
+!MESSAGE [Info]	[fetchCompletions] Request 99fac020-540a-4a51-a09b-be6997518449 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 264.28979999991134ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:01.262
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:01.676
+!MESSAGE [Info]	[fetchCompletions] Request 14648b12-bf94-49c4-bb9b-ad1d74137afe at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 340.22030000016093ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:01.756
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:02.019
+!MESSAGE [Info]	[fetchCompletions] Request 9d3d5277-21c5-406d-9f44-4c92897393d9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 235.03249999973923ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:02.091
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:02.352
+!MESSAGE [Info]	[fetchCompletions] Request a915cc9e-ae5b-4664-81ec-1dc39b0dec12 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 245.33740000007674ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:02.452
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:02.853
+!MESSAGE [Info]	[fetchCompletions] Request 105b16d2-8229-40fd-b074-64374a3a446c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 350.9651999999769ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:02.939
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:03.186
+!MESSAGE [Info]	[fetchCompletions] Request 9cd4ab6c-cdbd-4aec-be2f-3c38b66122d9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 231.3218999998644ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:03.274
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:04.833
+!MESSAGE [Info]	[fetchCompletions] Request 5d63948b-94aa-4011-b6b9-22857d324199 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 324.87340000038967ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:04.902
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:20.832
+!MESSAGE [Info]	[fetchCompletions] Request 69220bab-5708-4893-8962-f91538eb2e65 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 263.5271000000648ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:20.833
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:25.388
+!MESSAGE [Info]	[fetchCompletions] Request ee2f5c3d-fdd4-46dd-ba36-0447ebb7c4e3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 288.1968000000343ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:25.463
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:27.834
+!MESSAGE [Info]	[fetchCompletions] Request 0998138d-6915-4f2f-b433-31334e7923a4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 274.8010999998078ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:27.834
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:30.158
+!MESSAGE [Info]	[fetchCompletions] Request 3d38ccfb-e449-4a58-9b3f-7546837fd9f8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 267.5561999999918ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:30.226
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:38.526
+!MESSAGE [Info]	[fetchCompletions] Request afa24f2d-dda0-4178-8ef5-597a8e1a50db at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 257.71289999969304ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:38.592
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:40.756
+!MESSAGE [Info]	[fetchCompletions] Request a91767a8-a335-409b-9d15-716dc35d11ca at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 274.8255000002682ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:40.852
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:46.312
+!MESSAGE [Info]	[fetchCompletions] Request d210dd7b-09b2-4d34-a571-e532eb6c67c3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 272.0189999998547ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:46.378
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:46.747
+!MESSAGE [Info]	[fetchCompletions] Request c27b103f-7f92-467a-a871-ba5e2f103cb0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 231.69009999977425ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:46.814
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:47.108
+!MESSAGE [Info]	[fetchCompletions] Request 78880098-f5d4-4678-b8d0-091f7ef58913 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 283.0948999999091ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:47.210
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:47.533
+!MESSAGE [Info]	[fetchCompletions] Request 532ba498-e665-4976-9b93-3be42e2d0915 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 242.50400000019ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:47.599
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:47.865
+!MESSAGE [Info]	[fetchCompletions] Request c211421e-6e7f-4d04-8f06-15b0fdcda9c0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 255.04449999984354ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:47.932
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:48.265
+!MESSAGE [Info]	[fetchCompletions] Request d3a3d7f5-f0dd-4551-b523-08ac09822733 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 260.6428999998607ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:48.332
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:48.600
+!MESSAGE [Info]	[fetchCompletions] Request b33eeb56-03f2-4052-a54b-5a96c590b61d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 248.40960000036284ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:07:48.676
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:08:02.531
+!MESSAGE [Info]	[fetchCompletions] Request fd0efc42-4f22-4ccf-8d40-9ad946945578 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 291.56920000026ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:08:02.532
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:08:05.679
+!MESSAGE [Info]	[fetchCompletions] Request 6af1a781-14e4-44bf-9a5b-6f2e6f3f8f20 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 266.064900000114ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:08:05.767
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:08:06.058
+!MESSAGE [Info]	[fetchCompletions] Request 537652bd-3a98-4621-b700-6919b63e6e9c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 265.0246999999508ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:08:06.139
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:08:06.405
+!MESSAGE [Info]	[fetchCompletions] Request a8441f90-5e67-4f24-b32c-0b6e005a72c2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 258.3341000000946ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-17 13:08:06.470
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:10:42.188
+!MESSAGE [Info] Document is null for editor: Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:10:42.189
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:10:42.203
+!MESSAGE [Info] Document is null for editor: Huesped.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:10:42.205
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Huesped.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:10:42.258
+!MESSAGE [Info] Document is null for editor: Facturacion.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-17 13:10:42.259
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Facturacion.java
+!SESSION 2026-02-18 10:12:22.482 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-18 10:12:31.946
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-18 10:12:32.870
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-18 10:12:42.232
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 10:13:01.882
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 10:13:01.899
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.win32
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 10:13:02.095
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-18 10:13:02.520
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:13:16.386
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.412.0 initialized
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-18 10:13:19.613
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:13:19.657
+!MESSAGE [Info]	[certificates] Removed 11 expired certificates
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-18 10:13:19.728
+!MESSAGE [Error]	[state-database] Failed to initialize state database Error: State database initialization timed out
+    at C:\snapshot\copilot-intellij\agent\src\state\stateDatabase.ts:243:23
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at processTimers (node:internal/timers:520:9)
+    at lp.initializeWithTimeout (C:\snapshot\copilot-intellij\agent\src\state\stateDatabase.ts:240:9)
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:13:20.158
+!MESSAGE [Info]	[default] Policy watcher started for GitHub Copilot Plugin
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:13:20.938
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:13:21.835
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:13:21.841
+!MESSAGE [Info]	[Semantic Search] Semantic search is disabled { reason: 'watchedFiles capability is not available' }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:13:21.844
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-18 10:13:23.689
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:37:37.650
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:37:37.653
+!MESSAGE [Info]	[fetchCompletions] Request 9c49d0f6-d4ac-46fc-b631-80fae28fbb9d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 549.5574999998789ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:47:35.394
+!MESSAGE [Info]	[fetchCompletions] Request dabaac78-aeff-4488-b54f-9008c92e862d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 504.3548999999184ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:47:35.397
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:05.358
+!MESSAGE [Info]	[fetchCompletions] Request ae0d44c7-ce4d-4334-92f5-6d24063c8295 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 279.96650000009686ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:05.442
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:05.812
+!MESSAGE [Info]	[fetchCompletions] Request 41cea122-6ad7-4ca5-a101-abe14a2ef25e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 319.3890999997966ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:05.889
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:06.171
+!MESSAGE [Info]	[fetchCompletions] Request 85ca8cc0-7621-4d52-a665-c31813a34ca6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 261.6724999998696ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:06.267
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:06.534
+!MESSAGE [Info]	[fetchCompletions] Request a1d95a4a-2cd3-478c-81ba-e0f5dfa14e47 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 254.19169999985024ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:06.620
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:06.910
+!MESSAGE [Info]	[fetchCompletions] Request ace3a234-6225-4018-ac59-6e66c057b256 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 275.2497999998741ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:06.989
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:07.305
+!MESSAGE [Info]	[fetchCompletions] Request 97b2231e-546e-494f-be60-d6ec5cd40ae5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 247.92219999991357ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:07.379
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:07.682
+!MESSAGE [Info]	[fetchCompletions] Request 63bed69b-8e5b-485c-bd0a-fc2128e31a6d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 278.66809999989346ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:07.773
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:39.100
+!MESSAGE [Info]	[fetchCompletions] Request b6a1e848-ad66-4734-a2f7-07dfcd5c0628 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 231.25700000021607ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:48:39.177
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:51:21.886
+!MESSAGE [Info]	[fetchCompletions] Request 987d7c9c-3d05-45be-8480-3e3556bf1f7b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 542.8037000000477ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 10:51:21.887
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 11:11:38.971
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 11:11:38.972
+!MESSAGE [Info]	[fetchCompletions] Request abd918f7-c52a-46db-9169-0c2077401084 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 594.9901999998838ms
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 11:31:20.601
+!MESSAGE [Info] Document is null for editor: Facturacion.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 11:31:20.602
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Facturacion.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 11:31:20.645
+!MESSAGE [Info] Document is null for editor: Huesped.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 11:31:20.646
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Huesped.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 11:31:20.757
+!MESSAGE [Info] Document is null for editor: Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 11:31:20.757
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Main.java
+!SESSION 2026-02-18 12:55:40.672 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-18 12:55:44.762
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-18 12:55:45.038
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-18 12:55:50.709
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:55:59.682
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:55:59.687
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.win32
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:55:59.729
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-18 12:55:59.805
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 12:56:04.730
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.412.0 initialized
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-18 12:56:04.928
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 12:56:04.930
+!MESSAGE [Info]	[certificates] Removed 11 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 12:56:04.958
+!MESSAGE [Info]	[default] Policy watcher started for GitHub Copilot Plugin
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 12:56:05.447
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 12:56:05.944
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 12:56:05.944
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-18 12:56:05.945
+!MESSAGE [Info]	[Semantic Search] Semantic search is disabled { reason: 'watchedFiles capability is not available' }
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-18 12:56:06.278
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:56:31.358
+!MESSAGE [Info] Document is null for editor: Principal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:56:31.359
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Principal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:56:39.082
+!MESSAGE [Info] Document is null for editor: Facturacion.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:56:39.083
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Facturacion.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:56:40.392
+!MESSAGE [Info] Document is null for editor: Huesped.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:56:40.393
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Huesped.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:56:41.455
+!MESSAGE [Info] Document is null for editor: Procesos.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 12:56:41.456
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Java_Hospital/src/Procesos.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 14:32:50.111
+!MESSAGE [Info] Document is null for editor: Facturacion.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-18 14:32:50.113
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Hotel_Facturacion/src/Facturacion.java
+!SESSION 2026-02-19 20:47:07.874 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-19 20:47:15.310
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 20:47:15.873
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 20:47:33.952
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 20:47:43.871
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 20:47:43.881
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.win32
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 20:47:43.982
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-19 20:47:44.272
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 20:47:49.928
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.412.0 initialized
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-19 20:47:50.587
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 20:47:50.601
+!MESSAGE [Info]	[certificates] Removed 11 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 20:47:50.822
+!MESSAGE [Info]	[default] Policy watcher started for GitHub Copilot Plugin
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 20:47:51.260
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 20:47:51.774
+!MESSAGE [Info]	[Semantic Search] Semantic search is disabled { reason: 'watchedFiles capability is not available' }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 20:47:51.775
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 20:47:51.775
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-19 20:47:52.525
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 21:05:52.058
+!MESSAGE [Info]	[fetchCompletions] Request 95e804cb-aaaa-4267-bba5-46c302ae0cd9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 1607.1192000000738ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 21:05:52.059
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 21:06:13.857
+!MESSAGE [Info]	[fetchCompletions] Request 5588ba8a-88a4-4aa1-9227-ba06bb75a9c0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 2071.21669999999ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 21:06:13.859
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 21:06:14.343
+!MESSAGE [Info]	[fetchCompletions] Request b8ba4d4a-aec2-4753-9ef3-1035093c8de6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 386.76929999981076ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 21:06:14.344
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 21:06:41.893
+!MESSAGE [Info] Document is null for editor: ClaseInicial.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 21:06:41.894
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Notas_Estudiante/src/ClaseInicial.java
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 21:07:00.169
+!MESSAGE [Info]	[fetchCompletions] Request 4d2c7a06-709d-4722-88db-8a6f9ee011a1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 289.14850000012666ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 21:07:00.237
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 21:08:14.829
+!MESSAGE [Info] Document is null for editor: Procesos.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 21:08:14.833
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Notas_Estudiante/src/Procesos.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 21:08:14.919
+!MESSAGE [Info] Document is null for editor: Estudiante.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 21:08:14.920
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Notas_Estudiante/src/Estudiante.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 21:08:14.977
+!MESSAGE [Info] Document is null for editor: ClaseInicial.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 21:08:14.978
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Notas_Estudiante/src/ClaseInicial.java
+!SESSION 2026-02-19 23:36:18.071 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-19 23:36:23.739
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 23:36:24.280
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 23:36:56.040
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 23:37:03.738
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 23:37:03.742
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.win32
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 23:37:03.770
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-19 23:37:03.809
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:37:08.768
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.412.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:37:08.970
+!MESSAGE [Info]	[certificates] Removed 11 expired certificates
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-19 23:37:08.971
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:37:09.008
+!MESSAGE [Info]	[default] Policy watcher started for GitHub Copilot Plugin
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:37:09.412
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:37:09.803
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:37:09.804
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:37:09.804
+!MESSAGE [Info]	[Semantic Search] Semantic search is disabled { reason: 'watchedFiles capability is not available' }
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-19 23:37:10.074
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 23:38:04.709
+!MESSAGE [Info] Document is null for editor: ClaseInicial.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 23:38:04.710
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Notas_Estudiante/src/ClaseInicial.java
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:38:19.145
+!MESSAGE [Info]	[fetchCompletions] Request ef8196d9-d5e4-49b0-b464-db2b7837a168 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 489.3549000000057ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:38:19.871
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:38:20.138
+!MESSAGE [Info]	[fetchCompletions] Request 0df1ef1a-c5f4-4822-9dd1-497d87a61098 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 219.23589999999967ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-19 23:38:20.139
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 23:39:16.790
+!MESSAGE [Info] Document is null for editor: VentanaPrincipal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-19 23:39:16.790
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/Esteban%20Cardona/OneDrive/Documentos/660_BackEnd_And_FrontEnd/Trimestre%203/Eclipse-Cristian/Promedio_Estudiantes/src/VentanaPrincipal.java
+!SESSION 2026-02-19 23:39:18.675 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-19 23:39:22.639
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 23:39:22.884
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 23:39:28.036
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2026-02-19 23:39:28.949
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.microsoft.copilot.eclipse.ui.jobs/com.microsoft.copilot.eclipse.ui.jobs.handlers.RefreshAgentJobsHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2026-02-19 23:39:28.951
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.microsoft.copilot.eclipse.ui.jobs/com.microsoft.copilot.eclipse.ui.jobs.handlers.CollapseAllHandler
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2026-02-19 23:39:28.952
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.microsoft.copilot.eclipse.ui.jobs/com.microsoft.copilot.eclipse.ui.jobs.handlers.ExpandAllHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-19 23:39:35.986
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-19 23:39:35.991
+!MESSAGE Removing HandlerImpl with the "com.microsoft.copilot.eclipse.ui.jobs.handler.refreshagentjobs" id.It points to the non available "bundleclass://com.microsoft.copilot.eclipse.ui.jobs/com.microsoft.copilot.eclipse.ui.jobs.handlers.RefreshAgentJobsHandler" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-19 23:39:35.992
+!MESSAGE Removing HandlerImpl with the "com.microsoft.copilot.eclipse.ui.jobs.handler.collapseall" id.It points to the non available "bundleclass://com.microsoft.copilot.eclipse.ui.jobs/com.microsoft.copilot.eclipse.ui.jobs.handlers.CollapseAllHandler" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-19 23:39:35.993
+!MESSAGE Removing HandlerImpl with the "com.microsoft.copilot.eclipse.ui.jobs.handler.expandall" id.It points to the non available "bundleclass://com.microsoft.copilot.eclipse.ui.jobs/com.microsoft.copilot.eclipse.ui.jobs.handlers.ExpandAllHandler" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-19 23:39:36.018
+!MESSAGE Removing PartDescriptorImpl with the "com.microsoft.copilot.eclipse.ui.jobs.JobsView" id and the "%view.jobsView.label" label.It points to the non available "bundleclass://com.microsoft.copilot.eclipse.ui.jobs/com.microsoft.copilot.eclipse.ui.jobs.views.JobsView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-19 23:39:36.019
+!MESSAGE Removing PartDescriptorImpl with the "com.microsoft.copilot.eclipse.ui.chat.ChatView" id and the "Chat" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2026-02-20 10:14:40.885 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-20 10:14:43.786
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 10:14:44.117
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 10:14:48.750
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-20 10:14:59.395
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-02-20 10:59:17.945 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-20 10:59:20.448
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 10:59:20.715
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 10:59:24.747
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-20 10:59:39.559
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-02-20 15:47:03.247 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-20 15:47:06.277
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 15:47:06.543
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 15:47:12.078
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-20 15:47:19.419
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-02-20 16:25:49.835 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-20 16:25:53.311
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (276) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 16:25:53.715
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 16:26:06.459
+!MESSAGE Logback config file: C:\Users\Esteban Cardona\OneDrive\Documentos\660_BackEnd_And_FrontEnd\Trimestre 3\Eclipse-Cristian\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-20 16:26:14.160
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Esteban Cardona'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
