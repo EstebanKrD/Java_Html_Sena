@@ -9,16 +9,23 @@ export function printUsers(users) {
             : "https://via.placeholder.com/300x250?text=No+Image";
 
         return `
-            <article style="border:1px solid #ccc; padding:10px; margin:10px;">
+            <article class="user-card">
                 <img 
                     src="${imageUrl}" 
                     alt="${user.name}"
-                    width="200"
                     onerror="this.src='https://via.placeholder.com/300x250?text=No+Image'"
                 >
                 <h2>${user.name}</h2>
-                <p><strong>Sexo:</strong> ${user.sex}</p>
-                <p><strong>Ocupación:</strong> ${user.occupation || "No registrada"}</p>
+                <div class="user-content">
+                    <div class="info-block">
+                        <strong>Sexo:</strong>
+                        ${user.sex || "No registrado"}
+                    </div>
+                    <div class="info-block">
+                        <strong>Ocupación:</strong>
+                        ${user.occupation || "No registrada"}
+                    </div>
+                </div>
             </article>
         `;
     }).join("");
