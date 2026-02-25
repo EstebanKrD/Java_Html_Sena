@@ -1,7 +1,15 @@
+import java.util.HashMap;
+
 public class Procesos {
+
+    HashMap<String, Estudiante> listaEstudiantes = new HashMap<>();
 
     public Procesos() {
 
+    }
+
+    public void guardarEstudiante(Estudiante miEstudiante) {
+        listaEstudiantes.put(miEstudiante.getNombre(), miEstudiante);
     }
 
     public double calcularPromedio(double n1, double n2, double n3) {

@@ -4,11 +4,12 @@ import javax.swing.*;
 
 public class VentanaPrincipal extends JFrame implements ActionListener {
 
-   
-	JPanel miPanel;
+    JPanel miPanel;
     JLabel lblNombre, lblNota1, lblNota2, lblNota3, lblResultado, lblMensaje;
     JTextField txtNombre, txtNota1, txtNota2, txtNota3, txtResultado, txtMensaje;
     JButton btnCalcular, btnLimpiar;
+
+    Procesos miProceso = new Procesos();
 
     public VentanaPrincipal() {
         iniciarComponentes();
@@ -100,13 +101,13 @@ public class VentanaPrincipal extends JFrame implements ActionListener {
             miEstudiante.setNota2(nota2);
             miEstudiante.setNota3(nota3);
 
-            Procesos miProceso = new Procesos();
             double promedio = miProceso.calcularPromedio(nota1, nota2, nota3);
             miEstudiante.setPromedio(promedio);
 
             txtResultado.setText(String.valueOf(promedio));
 
             miProceso.calcularResultado(miEstudiante);
+            miProceso.guardarEstudiante(miEstudiante);
             txtMensaje.setText(miEstudiante.getResultado());
         }
 

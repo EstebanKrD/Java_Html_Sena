@@ -4,4 +4,4 @@ public class ClaseInicial {
         VentanaPrincipal miVentana = new VentanaPrincipal();
         miVentana.setVisible(true);
     }
-} 
+}
